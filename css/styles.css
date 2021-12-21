@@ -132,33 +132,6 @@ p {
 .contact-me-image:hover {
     filter: invert(80%) sepia(42%) saturate(281%) hue-rotate(336deg) brightness(93%) contrast(86%);
 }
-.btn {
-  background: #DEBA9D;
-  background-image: -webkit-linear-gradient(top, #DEBA9D, #eda771);
-  background-image: -moz-linear-gradient(top, #DEBA9D, #eda771);
-  background-image: -ms-linear-gradient(top, #DEBA9D, #eda771);
-  background-image: -o-linear-gradient(top, #DEBA9D, #eda771);
-  background-image: linear-gradient(to bottom, #DEBA9D, #eda771);
-  -webkit-border-radius: 10;
-  -moz-border-radius: 10;
-  border-radius: 10px;
-  font-family: 'Montserrat', sans-serif;
-  color: #6F4C5B;
-  font-size: 20px;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
-  margin-bottom: 100px;
-}
-
-.btn:hover {
-  background: #eb9757;
-  background-image: -webkit-linear-gradient(top, #eb9757, #e6c7af);
-  background-image: -moz-linear-gradient(top, #eb9757, #e6c7af);
-  background-image: -ms-linear-gradient(top, #eb9757, #e6c7af);
-  background-image: -o-linear-gradient(top, #eb9757, #e6c7af);
-  background-image: linear-gradient(to bottom, #eb9757, #e6c7af);
-  text-decoration: none;
-}
 
 .experience {
 
