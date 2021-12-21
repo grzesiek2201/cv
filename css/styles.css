@@ -172,7 +172,7 @@ p {
     text-align: right;
 }
 .table-certificates {
-    width: 1000px;
+    width: 80%;
     font-family: 'Montserrat', sans-serif;
     margin: auto;
 }
@@ -183,7 +183,6 @@ p {
     border-collapse: separate;
     margin-top: 0px;
     position: relative;
-    left: 5.5%;
     width: 20%;
 }
 .projects-row {
