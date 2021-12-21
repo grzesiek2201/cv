@@ -1,0 +1,220 @@
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+hr {
+    border-color: #DEBA9D;
+    border-style: dotted none none none;
+    border-width: 8px;
+    margin: 100px auto 100px auto;
+    width: 2%;
+}
+div {
+    background-color: #F5E8C7;
+    margin: 0;
+}
+h1 {
+    color: #9E7777;
+    font-size: 5rem;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+    line-height: 2;
+    margin: 0px auto 0 auto;
+    padding-top: 100px;
+}
+h2 {
+    color: #9E7777;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3 {
+    color: #6F4C5B;
+    font-family: 'Montserrat', sans-serif;
+}
+p {
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.intro{
+    margin: 0 auto 0 auto;
+    width: 30%;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    padding-bottom: 50px;
+    text-align: left;
+    width: 50%;
+}
+.top-container {
+    padding-top: 100px;
+    position: relative;
+}
+.middle-container {
+    margin: 0;
+    padding-bottom: 30px;
+}
+.bottom-container {
+    background-color: #DEBA9D;
+    margin: 0;
+    padding-top: 20px;
+}
+.contact-me {
+
+}
+.footer-link {
+    color: #6F4C5B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright-link {
+    color: #b09680;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    margin-bottom: 0px;
+    text-decoration: none;
+}
+.footer-link:hover {
+    color: #EAF6F6;
+}
+.copyright {
+    color: #6F4C5B;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+    margin-bottom: 0px;
+}
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.bottom-cloud {
+    bot: 300px;
+    left: 200px;
+    position: absolute;
+}
+.personal-image {
+    margin-top: 150px;
+    width: 13%;
+}
+.robot-image {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    width: 20%;
+}
+.cad-image {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.robotics-image {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
+.programming-image {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.contact-message {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+.contact-me-image {
+    filter: invert(30%) sepia(38%) saturate(381%) hue-rotate(282deg) brightness(93%) contrast(85%);
+    width: 5%;
+}
+.contact-me-image:hover {
+    filter: invert(80%) sepia(42%) saturate(281%) hue-rotate(336deg) brightness(93%) contrast(86%);
+}
+.btn {
+  background: #DEBA9D;
+  background-image: -webkit-linear-gradient(top, #DEBA9D, #eda771);
+  background-image: -moz-linear-gradient(top, #DEBA9D, #eda771);
+  background-image: -ms-linear-gradient(top, #DEBA9D, #eda771);
+  background-image: -o-linear-gradient(top, #DEBA9D, #eda771);
+  background-image: linear-gradient(to bottom, #DEBA9D, #eda771);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #6F4C5B;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 100px;
+}
+
+.btn:hover {
+  background: #eb9757;
+  background-image: -webkit-linear-gradient(top, #eb9757, #e6c7af);
+  background-image: -moz-linear-gradient(top, #eb9757, #e6c7af);
+  background-image: -ms-linear-gradient(top, #eb9757, #e6c7af);
+  background-image: -o-linear-gradient(top, #eb9757, #e6c7af);
+  background-image: linear-gradient(to bottom, #eb9757, #e6c7af);
+  text-decoration: none;
+}
+
+.experience {
+
+}
+.table-experience{
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+.experience-row {
+    text-align: right;
+}
+.table-certificates {
+    width: 1000px;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+}
+
+.table-projects {
+    display: inline-table;
+    border-spacing: px;
+    border-collapse: separate;
+    margin-top: 0px;
+    position: relative;
+    left: 5.5%;
+    width: 20%;
+}
+.projects-row {
+    display: inline;
+    text-align: center;
+}
+.fpv-image {
+    bottom: 10px;
+    margin: 10px 10px;
+    position: inline;
+    right: 150px;
+    width: 40%;
+}
+.delta-image {
+    bottom: 0px;
+    margin: 10px 10px;
+    position: inline;
+    right: 150px;
+    width: 40%;
+}
+.printer-image {
+    bottom: 0px;
+    margin: 10px 10px;
+    position: inline;
+    right: 150px;
+    width: 40%;
+}
+.cnc-image {
+    bottom: 0px;
+    margin: 10px 10px;
+    position: inline;
+    right: 155px;
+    width: 40%;
+}
